@@ -1481,6 +1481,7 @@ For devices with smaller width like mobile phone
     #breaker{
         height: 50vh;
         width: 200%;
+        height: 100%;
         background-color: #35CC6F;
         opacity: 1;
         animation: breakeranimate 2s linear;
