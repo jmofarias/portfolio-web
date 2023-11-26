@@ -1535,6 +1535,7 @@ For devices with smaller width like mobile phone
         width: 95%;
         padding: 10px;
         font-weight: 400;
+        text-align: center;
     }
     .about-first-paragraph .color{
         font-size: 30px;
@@ -1612,7 +1613,7 @@ For devices with smaller width like mobile phone
         width: 100%;
         display: flex;
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
         justify-content: center;
         padding: 1.5%;
         padding-right: 2%;
@@ -1745,7 +1746,7 @@ For devices with smaller width like mobile phone
             }
             .contact-info{
                 width: 90%;
-                height: 500px;
+                /* height: 500px; */
                 background-position: center;
                 background-size: cover;
                 border-radius: 16px;
